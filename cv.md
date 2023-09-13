@@ -50,4 +50,10 @@ console.log("Hello, JS World!")
       * HTML, CSS Basics on [Stepik](https://stepik.org/course/52164/promo#toc) and HTML, CSS, JS Basics on [code-basics.com](https://code-basics.com/ru).
       * [JavaScript/Front-end(Stage0)](https://rs.school/js-stage0/). [Certificate](https://app.rs.school/certificate/p2ml56mn).
       * [Javascript: погружение](https://main.wayup.in/library/course18). [Certificate](https://drive.google.com/file/d/161_XbF2mZMDCH8Dizry1cSnkaC-vhxQp/view?usp=sharing).
-	* __In process__: [JavaScript/Front-end(Stage1)](https://rs.school/js/).
+   * __In process__: 
+      * [JavaScript/Front-end(Stage1)](https://rs.school/js/).
+
+## Languages
+   * Russian (native)
+   * English (B1)
+   * German (A1)
