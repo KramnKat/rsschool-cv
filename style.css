@@ -1,0 +1,22 @@
+* {
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+   scroll-behavior: smooth;
+}
+
+body {
+   min-height: 100vh;
+   display: flex;
+   flex-direction: column;
+   font-family: 'Inter', sans-serif;
+   font-weight: 400;
+   font-size: 20px;
+}
+
+.container {
+   max-width: 1440px;
+   margin: 0 auto;
+   /* padding-left: 109px;
+   padding-right: 109px; */
+}
