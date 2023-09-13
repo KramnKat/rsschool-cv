@@ -45,7 +45,8 @@ console.log("Hello, JS World!")
 I have no professional experience in IT sphere, but I did some tasks related with creating websites pages on Tilda and educational projects. Some of my projects you can see below:
    * [Portfolio](https://rolling-scopes-school.github.io/kramnkat-JSFEPRESCHOOL/portfolio/)
    * [Mem-slider](https://kramnkat.github.io/cssMemSlider/)
-   So I'm eager to develop new skills and knowlages and in the future get the position in Frontend Developing. 
+
+So I'm eager to develop new skills and knowlages and in the future get the position in Frontend Developing. 
 
 ## Education
    * __University__: Saint Petersburg State University of Economics. *Speciality*: international relationships.
