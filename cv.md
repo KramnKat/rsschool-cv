@@ -1,8 +1,7 @@
 # Ekaterina Guseva
+#### BEGINNER FRONT-END DEVELOPER
 
 ![My-photo](./assets/myphoto.jpg)
-
-### BEGINNER FRONT-END DEVELOPER
 
 ## Contacts
 
@@ -31,13 +30,24 @@ But I have decided to lern something extremely new. And now I am developing myse
 * HTML (Basic)
 * CSS (Basic)
 * JS (Basic)
+* Git (Basic)
+* VS Code
 
 ## Code example
 
 ```
-
 <script>
 console.log("Hello, JS World!")
 </script>
-
 ```
+## Experience
+
+   * I have no professional experience in IT sphere, but I did some tasks related with websites pages on Tilda. So I want to develop new skills and knowlages and in the future get the position in Frontend Developing. 
+
+## Education
+   * __University__: Saint Petersburg State University of Economics. *Speciality*: international relationships.
+   * __Courses__: 
+      * HTML, CSS Basics on [Stepik](https://stepik.org/course/52164/promo#toc) and HTML, CSS, JS Basics on [code-basics.com](https://code-basics.com/ru).
+      * [JavaScript/Front-end(Stage0)](https://rs.school/js-stage0/). [Certificate](https://app.rs.school/certificate/p2ml56mn).
+      * [Javascript: погружение](https://main.wayup.in/library/course18). [Certificate](https://drive.google.com/file/d/161_XbF2mZMDCH8Dizry1cSnkaC-vhxQp/view?usp=sharing).
+	* __In process__: [JavaScript/Front-end(Stage1)](https://rs.school/js/).
