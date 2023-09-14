@@ -5,6 +5,7 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <link rel="stylesheet" href="/style.css">
+   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
    <title>CV</title>
 </head>
 
@@ -13,13 +14,43 @@
       <div class="container header__container"></div>
    </header>
    <main class="main">
-      <div class="container main__container">
-         <aside class="aside left-part">
-            <div class="left-part__img profile-img">
+      <div class="container profile">
+         <aside class="aside profile__left-part">
+            <div class="profile__img">
                <img src="./assets/myphoto.jpg" alt="my photo">
             </div>
+            <div class="profile__contacts contacts">
+               <h2 class="profile__title">CONTACTS</h2>
+               <ul class="contacts__list">
+                  <li class="contacts__item">
+                     <svg class="icon">
+                        <use xlink:href="./assets/sprite.svg#location"></use>
+                     </svg>Saint Petersburg, Russia
+                  </li>
+                  <li class="contacts__item"><svg class="icon">
+                        <use xlink:href="./assets/sprite.svg#email"></use>
+                     </svg> <a class="contacts__link"
+                        href="mailto:kramnkaterinka@gmail.com">kramnkaterinka@gmail.com</a></li>
+                  <li class="contacts__item">
+                     <svg class="icon">
+                        <use xlink:href="./assets/sprite.svg#telegram"></use>
+                     </svg> <a class="contacts__link" href="https://t.me/kramnkaterina">kramnkaterina</a>
+                  </li>
+                  <li class="contacts__item">
+                     <svg class="icon">
+                        <use xlink:href="./assets/sprite.svg#discord"></use>
+                     </svg><a class="contacts__link"
+                        href="https://discordapp.com/users/920007494510710836/">KramnKat</a>
+                  </li>
+                  <li class="contacts__item">
+                     <svg class="icon">
+                        <use xlink:href="./assets/sprite.svg#github"></use>
+                     </svg><a class="contacts__link" href="https://github.com/KramnKat">KramnKat</a>
+                  </li>
+               </ul>
+            </div>
          </aside>
-         <section class="section right-part">
+         <section class="section profile__right-part">
             <div></div>
          </section>
       </div>
